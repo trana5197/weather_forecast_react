@@ -1,0 +1,15 @@
+.app {
+  text-align: center;
+}
+
+.dropdown {
+  margin: 4rem;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+
+/* .cities {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+} */

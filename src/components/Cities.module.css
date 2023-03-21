@@ -1,0 +1,17 @@
+.days {
+  padding: 2rem;
+  width: 100%;
+
+  /* display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  gap: 2rem;
+  justify-items: center; */
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  overflow-x: auto;
+
+  background-color: #ddd;
+
+  border-radius: 9px;
+}

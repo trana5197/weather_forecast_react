@@ -1,0 +1,15 @@
+.day {
+  padding: 1.5rem;
+
+  background-color: #aaa;
+  border-radius: 9px;
+}
+
+.day:first-child {
+  margin-left: 10rem;
+}
+
+p {
+  font-size: 0.8rem;
+  line-height: 0.2;
+}
